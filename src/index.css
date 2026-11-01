@@ -94,6 +94,11 @@ button:hover {
   text-align: center;
 }
 
+.error {
+  color: #b8432f;
+  text-align: center;
+}
+
 footer {
   margin-top: 28px;
   text-align: center;
